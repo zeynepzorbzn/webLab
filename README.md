@@ -11,9 +11,12 @@
  ## Kurulum
 ```bash
 npm install
-## Calistirma
+ Calistirma
 ```bash
 npm run dev
 Tarayicida http :// localhost :5173 adresini ac.
-## Ekran Goruntusu
-<img width="797" height="599" alt="Ekran Resmi 2026-02-17 14 58 50" src="https://github.com/user-attachments/assets/6f7e95c4-3b8d-4993-be7a-f9dbda45a4c6" />
+ Ekran Goruntusu
+<img width="797" height="599" alt="Ekran Resmi 2026-02-17 14 58 50" src="https://github.com/user-attachments/assets/d5425edc-664f-4491-82fe-3f6f281c0588" />
+
+
+
