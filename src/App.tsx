@@ -13,6 +13,7 @@ function App () {
    <p>Ad Soyad : [ Zeynep Nur Zorbozan ]</p>
    <p> Ogrenci No: [ 235541085 ]</p>
    <p>Yazılım Mühendisliği 3. sınıf öğrencisi. Yapay zeka, makine öğrenmesi ve veri bilimi alanında ilerlemek istiyor.</p>
+   <p>Elazığ</p>
    </div >
    )
    }
