@@ -29,5 +29,5 @@ npm install
 npm run dev
 Tarayicida http :// localhost :5173 adresini ac.
 ## Ekran Goruntusu
-![Proje Ekran Görüntüsü](web.png)
+<img width="797" height="599" alt="Ekran Resmi 2026-02-17 14 58 50" src="https://github.com/user-attachments/assets/d5425edc-664f-4491-82fe-3f6f281c0588" />
 ````

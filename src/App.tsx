@@ -2,6 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/electron-vite.animate.svg'
 import './App.css'
+import { pushNotifications } from 'electron'
 
 
 
@@ -14,6 +15,7 @@ function App () {
    <p> Ogrenci No: [ 235541085 ]</p>
    <p>Yazılım Mühendisliği 3. sınıf öğrencisi. Yapay zeka, makine öğrenmesi ve veri bilimi alanında ilerlemek istiyor.</p>
    <p>Elazığ</p>
+   <p>Merkez</p>
    </div >
    )
    }
