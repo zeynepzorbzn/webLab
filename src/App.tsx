@@ -15,7 +15,8 @@ function App () {
    <p> Ogrenci No: [ 235541085 ]</p>
    <p>Yazılım Mühendisliği 3. sınıf öğrencisi. Yapay zeka, makine öğrenmesi ve veri bilimi alanında ilerlemek istiyor.</p>
    <p>Elazığ</p>
-   <p>Merkez</p>
+   <p>22.05.2004</p>
+   <p>Fırat Üniversitesi</p>
    </div >
    )
    }
